@@ -123,7 +123,7 @@ input[type=date],
 }
 
 .check-button {
-    background: url('../assets/check-outline.svg');
+    background: url('check-outline.svg');
     background-size: contain;
     width: 40px;
     height: 40px;
@@ -133,12 +133,12 @@ input[type=date],
 }
 
 .check-button:hover {
-    background: url('../assets/check-solid.svg');
+    background: url('check-solid.svg');
     background-size: contain;
 }
 
 .trash-button{
-    background: url('../assets/trash-outline.svg');
+    background: url('trash-outline.svg');
     background-size: contain;
     width: 40px;
     height: 40px;
@@ -148,12 +148,12 @@ input[type=date],
 }
 
 .trash-button:hover {
-    background: url('../assets/trash-fill.svg');
+    background: url('trash-fill.svg');
     background-size: contain;
 }
 
 .undo-button{
-    background: url('../assets/undo-ouline.svg');
+    background: url('undo-ouline.svg');
     background-size: contain;
     width: 40px;
     height: 40px;
@@ -163,7 +163,7 @@ input[type=date],
 }
 
 .undo-button:hover {
-    background: url('../assets/undo-ouline.svg');
+    background: url('undo-ouline.svg');
     background-size: contain;
 }
 
